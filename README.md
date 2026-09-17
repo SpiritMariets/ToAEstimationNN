@@ -1,4 +1,4 @@
-# Title
+# Time of arrival estimation of LTE signals for positioning by Neural Networks
 
 <!-- Change `kisnikser/m1p-template` to `intsystems/your-repository`-->
 [![License](https://badgen.net/github/license/kisnikser/m1p-template?color=green)](https://github.com/kisnikser/m1p-template/blob/main/LICENSE)
@@ -9,15 +9,11 @@
 <table>
     <tr>
         <td align="left"> <b> Author </b> </td>
-        <td> Name Surname </td>
-    </tr>
-    <tr>
-        <td align="left"> <b> Consultant </b> </td>
-        <td> Name Surname, PhD/DSc </td>
+        <td> Zaharov Alexander </td>
     </tr>
     <tr>
         <td align="left"> <b> Advisor </b> </td>
-        <td> Name Surname, PhD/DSc </td>
+        <td> Ilya Sinilshchikov </td>
     </tr>
 </table>
 
@@ -39,7 +35,7 @@ If you find our work helpful, please cite us.
 @article{citekey,
     title={Title},
     author={Name Surname, Name Surname (consultant), Name Surname (advisor)},
-    year={2025}
+    year={2026}
 }
 ```
 
