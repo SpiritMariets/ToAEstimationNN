@@ -1,10 +1,10 @@
 # Time of arrival estimation of LTE signals for positioning by Neural Networks
 
 <!-- Change `kisnikser/m1p-template` to `intsystems/your-repository`-->
-[![License](https://badgen.net/github/license/kisnikser/m1p-template?color=green)](https://github.com/kisnikser/m1p-template/blob/main/LICENSE)
-[![GitHub Contributors](https://img.shields.io/github/contributors/kisnikser/m1p-template)](https://github.com/kisnikser/m1p-template/graphs/contributors)
-[![GitHub Issues](https://img.shields.io/github/issues-closed/kisnikser/m1p-template.svg?color=0088ff)](https://github.com/kisnikser/m1p-template/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr-closed/kisnikser/m1p-template.svg?color=7f29d6)](https://github.com/kisnikser/m1p-template/pulls)
+[![License](https://badgen.net/github/license/SpiritMariets/ToAEstimationNN?color=green)](https://github.com/SpiritMariets/ToAEstimationNN/blob/main/LICENSE)
+[![GitHub Contributors](https://img.shields.io/github/contributors/SpiritMariets/ToAEstimationNN)](https://github.com/SpiritMariets/ToAEstimationNN/graphs/contributors)
+[![GitHub Issues](https://img.shields.io/github/issues-closed/SpiritMariets/ToAEstimationNN.svg?color=0088ff)](https://github.comSpiritMariets/ToAEstimationNN/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr-closed/SpiritMariets/ToAEstimationNN.svg?color=7f29d6)](https://github.com/SpiritMariets/ToAEstimationNN/pulls)
 
 <table>
     <tr>
