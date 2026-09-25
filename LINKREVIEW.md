@@ -21,8 +21,7 @@
 | 10 | Direct Multipath-Based SLAM | 2025 | Mingchao Liang | [DOI](https://doi.org/10.1109/TSP.2025.3552747) | TODO | SLAM без предварительной обработки канала |
 | 11 | Enabling High-Precision 5G mmWave-Based Positioning for Autonomous Vehicles in Dense Urban Environments | 2023 | Qamar Bader | [arXiv](https://arxiv.org/abs/2305.02822) | TODO | TODO |
 | 12 | Multipath-assisted positioning enhancement via DC-SLAM with MAP-PF: An in-depth analysis and performance evaluation | 2024 | Tian Sun | [Link](https://www.sciencedirect.com/science/article/abs/pii/S1051200423004670) | TODO | TODO |
-| 13 | Positioning for NLOS Propagation: Algorithm Derivations and Cramer–Rao Bounds | 2007 | 
-Honglei Miao | [DOI](https://doi.org/10.1109/TVT.2007.899948) | TODO | Алгоритм учитывания NLOS ситуаций |
+| 13 | Positioning for NLOS Propagation: Algorithm Derivations and Cramer–Rao Bounds | 2007 | Honglei Miao | [DOI](https://doi.org/10.1109/TVT.2007.899948) | TODO | Алгоритм учитывания NLOS ситуаций |
 | 14 | WAIR-D: Wireless AI Research Dataset | 2022 | Yourui Huangfu | [arXiv](https://arxiv.org/abs/2212.02159) | TODO | Датасет для экспериментов |
 | 15 | AI-Driven Wireless Positioning: Fundamentals, Standards, State-of-the-Art, and Challenges| 2025 | Guangjin Pan| [DOI](https://doi.org/10.1109/COMST.2025.3648577) | TODO | Обзорная статья |
 | 16 | TODO | TODO | TODO | TODO | TODO | TODO |
